@@ -1,7 +1,7 @@
 ## Music chat bot
 
 
-![logo](https://te.legra.ph/file/7ebffb2ecdc2813fc5655.jpg)
+![logo](https://te.legra.ph/file/7ebffb2ecdc2813fc5655.jpg)](http://t.me/Music_kl_bot)
 
 
 

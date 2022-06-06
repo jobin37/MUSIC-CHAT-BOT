@@ -1,15 +1,14 @@
 ## Music chat bot
 
 
-## Commands (Set In Botfather)
 
-start - Start The Bot
-help - Show Help Message
-play - Start Audio Streaming
-stream - Start Video Streaming
-pause - Pause The Current Stream
-resume - Resume The Paused Stream
-endstream - Stop Streaming & Left VC
+
+
+
+
+
+
+
 ###
 
 ## Config Vars

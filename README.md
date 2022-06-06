@@ -5,7 +5,7 @@
 
 start - Start The Bot
 help - Show Help Message
-play - Start Audio Streaming ( 'Example' /play lisa money )
+play - Start Audio Streaming ( `Example` /play lisa money )
 stream - Start Video Streaming
 pause - Pause The Current Stream
 resume - Resume The Paused Stream

@@ -40,7 +40,7 @@ async def search(client, query):
     if query.query == "SAF_ONE":
         answers.append(
             InlineQueryResultArticle(
-                title="Deploy Own Video Player Bot"
+                title="Deploy Own Video Player Bot",
                 input_message_content=InputTextMessageContent(f"{REPLY_MESSAGE}\n\n<b>Korean : \n🇰🇷 Lisa 💕</b>", disable_web_page_preview=True),
                 reply_markup=InlineKeyboardMarkup(buttons)
                 )

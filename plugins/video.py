@@ -1,5 +1,6 @@
 """
-Music chat botCopyright (c) 2022 Lisa <https://github.com/LISA-KOREA>
+Music chat bot
+Copyright (c) 2022 Lisa <https://github.com/LISA-KOREA>
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as published by

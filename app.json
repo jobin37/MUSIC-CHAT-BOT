@@ -1,8 +1,8 @@
 {
-    "name": "Telegram Video Player Bot",
-    "description": "An Telegram Bot By @AsmSafone To Stream Videos in Voice Chat",
-    "repository": "https://github.com/AsmSafone/VideoPlayerBot",
-    "logo": "https://telegra.ph/file/1adba0bdcbcf7d81c8ab8.jpg",
+    "name": "Telegram music chat bot 🇰🇷",
+    "description": "An Telegram Bot By Lisa 💕 To Stream Videos in Voice Chat",
+    "repository": "https://github.com/LISA-KOREA/MUSIC-CHAT-BOT",
+    "logo": "https://te.legra.ph/file/7ebffb2ecdc2813fc5655.jpg",
     "stack": "container",
     "keywords": [
       "telegram",
@@ -29,7 +29,7 @@
         "required": true
       },
       "SESSION_STRING": {
-        "description": "Pyrogram Session String of User Account, get it from @genStr_robot",
+        "description": "Pyrogram Session String of User Account, get it from @genStr_robot or https://repl.it/@TelegramBots/musicsession",
         "required": true
       },
       "SUDO_USERS": {

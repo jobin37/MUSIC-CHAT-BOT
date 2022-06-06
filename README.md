@@ -2,7 +2,7 @@
 
 
 ## Commands (Set In Botfather)
-```sh
+
 start - Start The Bot
 help - Show Help Message
 play - Start Audio Streaming ( 'Example' /play lisa money )
@@ -10,7 +10,6 @@ stream - Start Video Streaming
 pause - Pause The Current Stream
 resume - Resume The Paused Stream
 endstream - Stop Streaming & Left VC
-```
 
 ## Config Vars
 1. `API_ID` : User Account Telegram API_ID, get it from my.telegram.org

@@ -42,6 +42,7 @@ async def search(client, query):
             InlineQueryResultArticle(
                 title="Deploy Own Video Player Bot",
                 thumb_url="https://te.legra.ph/file/7ebffb2ecdc2813fc5655.jpg",
+                photo_url="https://te.legra.ph/file/d2d014274a73ed3aa2240.jpg",
                 input_message_content=InputTextMessageContent(f"{REPLY_MESSAGE}\n\n<b>Korean : \n🇰🇷 Lisa 💕</b>", disable_web_page_preview=True),
                 reply_markup=InlineKeyboardMarkup(buttons)
                 )

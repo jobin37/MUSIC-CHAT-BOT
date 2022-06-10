@@ -9,7 +9,7 @@
 
 
 
-[![logo](https://a36a064cf6ccdffab1019892c8caca2d.gif)]
+[![logo](https://www.1tamilmv.cloud/uploads/emoticons/Super.gif)]
 
 ## Config Vars
 1. `API_ID` : User Account Telegram API_ID, get it from my.telegram.org

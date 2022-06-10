@@ -9,7 +9,7 @@
 
 
 
-###
+[![logo](https://uploads/monthly_2018_01/torrborder.gif.a36a064cf6ccdffab1019892c8caca2d.gif)]
 
 ## Config Vars
 1. `API_ID` : User Account Telegram API_ID, get it from my.telegram.org

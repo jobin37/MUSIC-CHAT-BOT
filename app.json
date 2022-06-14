@@ -29,7 +29,7 @@
         "required": true
       },
       "SESSION_STRING": {
-        "description": "Pyrogram Session String of User Account, get it from @genStr_robot or https://repl.it/@TelegramBots/musicsession",
+        "description": "Pyrogram Session String of User Account, get it from @genStr_robot or https://replit.com/@TelegramBots/LisaSession",
         "required": true
       },
       "SUDO_USERS": {

@@ -1,6 +1,6 @@
 """
-VideoPlayerBot, Telegram Video Chat Bot
-Copyright (c) 2021  Asm Safone <https://github.com/AsmSafone>
+MusicChatBot, Telegram Video Chat Bot
+Copyright (c) 2021  Asm Safone <https://github.com/LISA-KOREA>
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as published by
@@ -20,7 +20,7 @@ from pyrogram import Client
 from config import API_ID, API_HASH, BOT_TOKEN
 
 bot = Client(
-    "VideoPlayer",
+    "MusicChatBot",
     API_ID,
     API_HASH,
     bot_token=BOT_TOKEN

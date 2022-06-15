@@ -1,6 +1,6 @@
 """
-VideoPlayerBot, Telegram Video Chat Bot
-Copyright (c) 2021  Asm Safone <https://github.com/AsmSafone>
+MusicChatBot, Telegram Video Chat Bot
+Copyright (c) 2021  Lisa <https://yt-dl.org/bug>
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as published by

@@ -1,6 +1,6 @@
 {
     "name": "Telegram music chat bot 🇰🇷",
-    "description": "An Telegram Bot By Lisa 💕 To Stream Videos in Voice Chat",
+    "description": "I'm Telegram Bot By Lisa 💕 To Stream Videos in Voice Chat",
     "repository": "https://github.com/LISA-KOREA/MUSIC-CHAT-BOT",
     "logo": "https://te.legra.ph/file/7ebffb2ecdc2813fc5655.jpg",
     "stack": "container",
@@ -25,7 +25,7 @@
         "required": true
       },
       "BOT_TOKEN": {
-        "description": "Your Telegram Bot Token, get it from @Botfather XD",
+        "description": "Your Telegram Bot Token, get it from @Botfather .",
         "required": true
       },
       "SESSION_STRING": {

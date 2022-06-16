@@ -15,7 +15,7 @@
 ## Config Vars
 1. `API_ID` : User Account Telegram API_ID, get it from my.telegram.org
 2. `API_HASH` : User Account Telegram API_HASH, get it from my.telegram.org
-3. `BOT_TOKEN` : Your Telegram Bot Token, get it from @Botfather
+3. `BOT_TOKEN` : Your Telegram Bot Token, get it from [@Botfather](t.me/BotFather)
 4. `SESSION_STRING` : Pyrogram Session String of User Account, get it from [@StringSession GeneratorBot](http://t.me/StringSession_GeneratorBot)
 5. `ASSISTANT_NAME` : Your Video Player's assistant username without @.
 6. `SUPPORT_GROUP` : Support Group username without @ [Leave this if you don't have one]

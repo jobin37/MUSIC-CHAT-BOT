@@ -14,7 +14,7 @@ HELP_TEXT = f"""
 
 ⚫-- **Available Commands**:--
 
-\u2022 `/play` - Stream An Audio (**Example** /play https://www.youtube.com/watch?v=dNCWe_6HAM8)
+\u2022 `/play` - Stream An Audio (**Example** /play youtube link)
 
 \u2022 `/stream` - Stream An Video
 

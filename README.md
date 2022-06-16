@@ -8,9 +8,11 @@
 
 
 
-### SESSION_STRING
+### SESSION STRING
 <a href="https://replit.com/@TelegramBots/LisaSession"><img alt="replit" src="https://img.shields.io/badge/-String%20Session-black?style=for-the-badge&logo=replit&logoColor=white"/></a> 
-                       OR 
+
+
+### SESSION BOT
                <a href="http://t.me/StringSession_GeneratorBot"><img alt="replit" src="https://img.shields.io/badge/-Session%20Bot-red?style=for-the-badge&logo=replit&logoColor=white"/></a> 
    
 

@@ -13,7 +13,7 @@
 
 
 ### SESSION BOT
-               <a href="http://t.me/StringSession_GeneratorBot"><img alt="replit" src="https://img.shields.io/badge/-Session%20Bot-red?style=for-the-badge&logo=replit&logoColor=white"/></a> 
+<a href="http://t.me/StringSession_GeneratorBot"><img alt="replit" src="https://img.shields.io/badge/-Session%20Bot-red?style=for-the-badge&logo=replit&logoColor=white"/></a> 
    
 
 ## Config Vars

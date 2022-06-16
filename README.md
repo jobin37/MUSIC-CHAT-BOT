@@ -8,9 +8,9 @@
 
 
 
-<br>
+
 <a href="https://replit.com/@TelegramBots/LisaSession"><img alt="replit" src="https://img.shields.io/badge/-String%20Session-black?style=for-the-badge&logo=replit&logoColor=white"/></a> 
-   <br>
+   
 
 ## Config Vars
 1. `API_ID` : User Account Telegram API_ID, get it from my.telegram.org

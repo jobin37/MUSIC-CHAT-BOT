@@ -32,7 +32,7 @@ BOT_TOKEN = getenv("BOT_TOKEN", "")
 SESSION_STRING = getenv("SESSION_STRING", "")
 SUPPORT_GROUP = getenv("SUPPORT_GROUP", "")
 UPDATES_CHANNEL = getenv("UPDATES_CHANNEL", "")
-ASSISTANT_NAME = getenv("ASSISTANT_NAME", "MyVideoPlayer")
+ASSISTANT_NAME = getenv("ASSISTANT_NAME", "MusicChat")
 SUDO_USERS = list(map(int, getenv("SUDO_USERS").split()))
 REPLY_MESSAGE = getenv("REPLY_MESSAGE", "Hello Brother Or Sister I'm a group music chat bot to play radio/music/youtube live on telegram group voice chat, not having time to chat with you 🙂!")
 if not REPLY_MESSAGE:

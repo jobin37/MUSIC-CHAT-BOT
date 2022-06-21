@@ -2,7 +2,7 @@ yt-dlp
 youtube_dl
 ffmpeg-python
 python-dotenv
-tgcrypto==2.28.0
+tgcrypto==1.2.3
 requests==2.28.0
 pyrogram==1.4.16
 pytgcalls==3.0.0.dev22

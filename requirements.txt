@@ -1,10 +1,9 @@
-yt-dlp
 youtube_dl
-pyyaml==6.0
 ffmpeg-python
 python-dotenv
 tgcrypto==1.2.3
 requests==2.28.0
 pyrogram==1.4.16
-pytgcalls==3.0.0.dev22
+pytgcalls==3.0.0.dev23
 youtube-search-python==1.6.6
+yt-dlp==2022.6.22.1

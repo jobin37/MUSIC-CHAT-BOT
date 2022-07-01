@@ -1,11 +1,11 @@
 yt-dlp
 requests
 tgcrypto
-pyrogram
 pytgcalls
 youtube_dl
 python-dotenv
 ffmpeg-python
 youtube-search
+pyrogram==1.4.16
 youtube_search_python
 

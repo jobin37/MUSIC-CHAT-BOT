@@ -7,4 +7,4 @@ ffmpeg-python
 youtube-search
 pyrogram==1.4.16
 youtube_search_python
-pytgcalls==3.0.0.dev23
+pytgcalls==3.0.0.dev22

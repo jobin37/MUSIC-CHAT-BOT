@@ -1,6 +1,6 @@
 tgcrypto
 requests
-youtube_dl
+youtube-dl
 ffmpeg-python
 python-dotenv
 pyrogram==1.4.16

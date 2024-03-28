@@ -3,6 +3,6 @@ requests
 youtube-dl
 ffmpeg-python
 python-dotenv
-pyrogram==1.4.16
+pyrogram
 pytgcalls==3.0.0.dev21
 youtube-search-python

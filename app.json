@@ -43,12 +43,12 @@
       "SUPPORT_GROUP": {
         "description": "Support Group username without @ [Leave this if you don't have one]",
         "required": false,
-        "value": "music_lover_ff"
+        "value": "NT_BOTS_SUPPORT"
       },     
       "UPDATES_CHANNEL": {
         "description": "Updates Channel username without @ [Leave this if you don't have one].",
         "required": false,
-        "value": "music_lover_ff"
+        "value": "NT_BOTS_SUPPORT"
       },
       "REPLY_MESSAGE": {
         "description": "A reply message to those who message the USER account in PM. Make it blank if you do not need this feature.",
@@ -59,7 +59,7 @@
     "formation": {
       "worker": {
         "quantity": 1,
-        "size": "free"
+        "size": "eco"
       }
     },
     "buildpacks": [
